@@ -41,8 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um título de um ebook sobre o tema de Inteligência artificial, o ebook é do nicho de tecnologia, e o subnicho é Inteligência artificial (IA), o titulo deve ser épico e curto e tenha uma temática mais nerd. Me liste 5 variações de título.                                                       |
-| conteúdo | faça um texto para ebook, com foco em Inteligência artificial explicando o que é e suas principais ramificações como: visão computacional, ia generativa, dentre outras.
-Preciso que o texto contenha um título principal do capitulo junto a um texto explicativo e cada tópico desse capítulo tenha título, subtítulo e o texto explicativo. {REGRAS} Explique sempre de maneira simples, Deixe o texto enxuto, Sempre deixe o título sugestivo por tópico |
+| conteúdo | faça um texto para ebook, com foco em Inteligência artificial explicando o que é e suas principais ramificações como: visão computacional, ia generativa, dentre outras. {REGRAS} Explique sempre de maneira simples, Deixe o texto enxuto, Sempre deixe o título sugestivo por tópico |
 
 
 Meta AI：
