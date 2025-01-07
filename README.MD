@@ -30,7 +30,7 @@ seguem abaixo.
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Meta AI](https://www.meta.ai)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -40,25 +40,26 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de Inteligência artificial, o ebook é do nicho de tecnologia, e o subnicho é Inteligência artificial (IA), o titulo deve ser épico e curto e tenha uma temática mais nerd. Me liste 5 variações de título.                                                       |
+| conteúdo | faça um texto para ebook, com foco em Inteligência artificial explicando o que é e suas principais ramificações como: visão computacional, ia generativa, dentre outras.
+Preciso que o texto contenha um título principal do capitulo junto a um texto explicativo e cada tópico desse capítulo tenha título, subtítulo e o texto explicativo. {REGRAS} Explique sempre de maneira simples, Deixe o texto enxuto, Sempre deixe o título sugestivo por tópico |
 
 
-Midjourney：
+Meta AI：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Gere uma pixel art de algo que remete a inteligência artificial, robótica e tecnologia. |
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Meta AI.
 
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook criado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
@@ -71,22 +72,17 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/154285174?s=400&u=0e8ab4b76e1a16d35419d57284b8c545b2015dc0&v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRafael Souza<br>
     &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
+    <a href="https://github.com/rafaelsouzapinto">
     GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/rafaelsouzapinto/">LinkedIn</a>
 &nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
+    <a href="https://www.instagram.com/antonyrafaeo/">
     Instagram</a>
 &nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
